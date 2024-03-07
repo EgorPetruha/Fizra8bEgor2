@@ -1,0 +1,213 @@
+body {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color: rgb(252, 237, 190);
+}
+
+/* header start */
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color:#e38000;
+    text-decoration: none;
+    margin: 10px auto auto auto;
+    align-items: center;
+    font-size: 70px;
+    border-radius: 15px;
+    list-style-type: none;
+}
+
+.Logos {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 115px;
+    margin-right: 115px;
+    margin-bottom: 5px;
+}
+
+/* header end */
+
+/* nav start */
+
+.pred {
+    display: flex;
+    background-color: #e38000;
+    width: auto;
+    height:30px ;
+    justify-content: center;
+    margin: 10px 100px 50px 100px;
+    border-radius: 7px;
+    align-items: center;
+    opacity: 85%;
+    font-size: 25px;
+}
+
+/* nav end */
+
+/*Main start*/
+
+.Text1 {
+    margin-left: 10px;
+    width: 900px;
+    height: 250px;
+    background-color: #e38000;
+    border-radius: 20px;
+}
+
+.Textin1 {
+    padding: 20px 50px 20px 50px;
+}  
+
+.tabl1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 150px;
+}
+
+.abz {
+    padding: 10px 40px 10px 40px;
+    font-size: 30px;
+}
+
+
+.Text2 {
+    margin-left: 10px;
+    width: 900px;
+    height: 250px;
+    background-color: #e38000;
+    border-radius: 20px;
+}
+
+.tabl2 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.Textin2 {
+    padding: 20px 50px 20px 50px;
+}
+
+.img2 {
+    width: 250px;
+    height: 250px;
+}
+
+/*Информайцыя Про меня*/
+
+.mybio {
+    display: flex;
+    background-color:black;
+    border-radius: 20px;
+    flex-direction: row;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 50px;
+}
+
+.mybio2 {
+    background-color: #dc963b;
+    border-radius: 80px;
+    padding: 70px 25px 70px 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.mybio-tabl {
+    display: flex;
+    flex-direction: row;
+    font-size: 40px;
+    align-items: center;
+    line-height: 50px;
+
+}
+
+.Photo-bio {
+    width: 400px;
+}
+
+.tabl-list {
+    list-style-type: none;
+}
+
+.blue {
+    color: blue;
+    font-size: 30px;
+}
+
+/* Заголовок Упражнения*/
+
+.Block1 {
+    display: flex;
+    margin-top: 50px;
+    background-color: #e38000;
+    border-radius: 20px;
+    font-size: 50px;
+    height: 60px;
+}
+
+.intr {
+    display: flex;
+    justify-content: center;
+}
+
+/*Основной Блок Упражнения*/
+
+.Box1 {
+    background-color: #e38000;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    max-height: 600px;
+    margin-top: 20px;
+    padding: 25px 50px 50px 50px;
+    max-width: 500px;
+    margin-bottom: 30px;
+}
+
+.Box2 {
+    background-color: #e38000;
+    border-radius: 20px;
+    max-height: 600px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 25px 50px 50px 50px;
+    max-width: 500px;
+    margin-bottom: 30px;
+}
+
+.imgu1 {
+    width: 500px;
+    
+}
+
+.shrift {
+    font-size: 30px;
+}
+
+.upr2 {
+    display: flex;
+    flex-direction: row-reverse;
+    border: 5px solid #e38000;
+    border-radius: 20px;
+    margin-top: 20px;
+    max-height: 800px;
+}
+
+.upr1 {
+    display: flex;
+    flex-direction: row;
+    border: 5px solid #e38000;
+    border-radius: 20px;
+    margin-top: 20px;
+    max-height: 800px;
+}
